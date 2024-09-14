@@ -1,10 +1,26 @@
 /* Samim Wais */
 body {
-    background-color: lightblue;
+    background-color: teal;
 }
-
 h1{
+    text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
+    filter: grayscale(0.5);
+    color:firebrick;
+    padding: 32px;
+    background-position: center;
     background-color: gray;
-    padding: 20px;
-    text-align: center;
+  
+    
+}
+h4{
+    font-size: 25px;
+    font-weight:bold
+    
+}
+p{
+    color: white;
+    font-weight: bold;
+}
+a{
+    font-weight: bold;
 }
